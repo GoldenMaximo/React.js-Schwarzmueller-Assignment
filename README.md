@@ -15,6 +15,6 @@
 
 ## Result:
 
-[Link](https://goldenmaximo.github.io/React.js-Schwarzmueller-Assignment/)
+### [GitHub Pages Link](https://goldenmaximo.github.io/React.js-Schwarzmueller-Assignment/)
 
 ![](public/screencap.png)
